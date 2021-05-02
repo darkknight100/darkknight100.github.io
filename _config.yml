@@ -1,1 +1,3 @@
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-cayman
+title: welcome
+descripton: welcome
